@@ -159,6 +159,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
         background-repeat: no-repeat;
         background-size:cover;
         background-position: 0 0;
+        background-attachment: fixed;
         position:relative;
         display:flex;
         align-items: center;
@@ -175,6 +176,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
     background-repeat: no-repeat;
     background-size:cover;
     background-position: 0 0;
+    background-attachment: fixed;
     position:relative;
     display:flex;
     align-items: center;
@@ -191,6 +193,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
         background-repeat: no-repeat;
         background-size:cover;
         background-position: 0 0;
+        background-attachment: fixed;
         position:relative;
         display:flex;
         align-items: center;
